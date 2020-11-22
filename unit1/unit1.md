@@ -75,8 +75,8 @@ are two entirely separate entities:
     now see strategic advantage in being able to move quickly and get to
     market fast — putting a new idea into production within days or even
     hours, instead of months.
-- 
-#### Second Definition for Cloud Native:
+
+### Second Definition for Cloud Native:
 
     Cloud native is about  how we create and deliver, not where.
 
