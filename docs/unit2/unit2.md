@@ -135,9 +135,9 @@
 -   Intelligent Technologies
 
 #### 3.  Navigate to
+
     [<uhttps://help.sap.com/viewer/index</u](https://help.sap.com/viewer/index)
 
-<!-- --
 
 1.  Show SAP Community.
 
@@ -145,11 +145,12 @@
 
 3.  Search for SAP Cloud Platform
     ([<uhttps://help.sap.com/viewer/product/CP/Cloud/en-</u
+
     <uUS?task=discover\_task</u](https://help.sap.com/viewer/product/CP/Cloud/en-US?task=discover_task)).
 
-<!-- --
 
-1.  Show how the landing page is built, jumps into the different areas.
+
+#### 1.  Show how the landing page is built, jumps into the different areas.
 
  LESSON SUMMARY
 
@@ -162,14 +163,14 @@
 
  Industry Cloud
 
- LESSON OBJECTIVES
+## LESSON OBJECTIVES
 
  After completing this lesson, you will be able to:
 
 -   Explain the ideas and innovations of an experience management of an
     industry cloud
 
-### Ideas and Innovations of the Experience Management of an Industry Cloud
+## Ideas and Innovations of the Experience Management of an Industry Cloud
 
  In particular, we'll look at the following topics in this lesson:
 
@@ -188,9 +189,9 @@
 
 -   The Four Main Use Cases of SAP
 
- X-and O data
+## X-and O data
 
- Facts about x-and o data
+### Facts about x-and o data
 
 -   To get a full view of the customers, to improve your business, you
     need not only the (o) opaque data but also the (x) behavioral data
@@ -209,20 +210,20 @@
  between is the Business Technology Platform which combines both data
  to a complete view of the customer.
 
- In short:
+### In short:
 
-1.  Operational data are:
+#### 1.  Operational data are:
 
     -   All business data
 
     -   All technical data
 
- \(x\) Experience data are:
+#### \(x\) Experience data are:
 
  All data that directly affects the customer, emotions, opinions,
  perceptions and many more.
 
- The NEW one:
+#### The NEW one:
 
  is now to connect this information. This requires a Technology
  Platform that allows this, in a simple and wise able way.
@@ -242,7 +243,9 @@
 
  We will deal with the BTP in detail later.
 
- Industry - Means Core Business Industry cloud is our strategy:
+## Industry - Means Core Business 
+
+### Industry cloud is our strategy:
 
 -   To extend the intelligent suite with innovative industry cloud
      solutions.
@@ -298,8 +301,8 @@
 
  Let us take a closer look at the individual areas.
 
- New API Framework of the Intelligent Enterprise – SAP Graph and its
- new Business Model
+## New API Framework of the Intelligent Enterprise – SAP Graph and its
+## new Business Model
 
  In addition to the well-known API's such as REST, OData and SOAP,
  there is a new innovative API framework based on oData.
@@ -349,7 +352,7 @@
  dynamic schema and to determine the interconnections between the
  online actions for the Intelligent Enterprise processes.
 
- SAP focuses on the following processes:
+#### SAP focuses on the following processes:
 
 -   Design-to-Operate
 
@@ -381,11 +384,11 @@
 
 -   And more- see https://beta.graph.sap
 
- How to Use SAP Graph
+## How to Use SAP Graph
 
  1\.
 
-### The Business Process Model
+## The Business Process Model
 
  Business Process Model
 
@@ -404,7 +407,7 @@
  Company services and content that describes how to configure the
  intelligent suite to enable plugging in the solution.
 
- Business and Technology Services
+## Business and Technology Services
 
  Industry cloud solutions have ready access to a broad range of
  business and technology services that make life easy for developers.
@@ -419,7 +422,7 @@
  Subscription management, invoicing, usage monitoring, and application
  support are also managed through integrated central services.
 
- Vertical Edge
+## Vertical Edge
 
  <img src=".//media/image13.jpeg" style="width:3.70906in;height:2.51469in" /Every
  path needs goals and waypoints. On the way to the Intelligent
@@ -432,22 +435,22 @@
  journey begins from below. Taking Human Resources as an example, this
  looks like this.
 
- Further Facts:
+### Further Facts:
 
- Best Practices - Now
+#### Best Practices - Now
 
  Onboarding employees quickly and seamlessly.
 
- Next Practices - Next Step
+#### Next Practices - Next Step
 
  Identifying and securing talent for prosumer engagement.
 
- Vertical Edge - Goal
+#### Vertical Edge - Goal
 
  Identifying, forecasting, and addressing skill gaps Empowering
  employees to make decisions in real time.
 
- The Four Main Use Cases of SAP
+## The Four Main Use Cases of SAP
 
  In order to make the many innovations, ideas and innovations available
  to the customer, SAP applies this to 4 selected process.
@@ -467,9 +470,9 @@
 
 -   Source-to-Pay
 
- Get Deeper
+### Get Deeper
 
- Design-to-Operate (D2O)
+#### Design-to-Operate (D2O)
 
  Is the Digital Supply Chain & Manufacturing contribution to the
  Intelligent Enterprise Suite and delivers a seamlessly integrated
@@ -484,14 +487,13 @@
 
 -   Deliver,
 
-<!-- --
 
 -   and Operate solutions,
 
  primarily from a Manufacturer and Operator perspective, with a
  principle focus on manufacturing industries in the initial delivery.
 
- Total Workforce Management
+#### Total Workforce Management
 
  Manages all aspects of the total workforces (employees and external
  workers) in line with company's business objectives and a clear line
@@ -515,7 +517,7 @@
 
 -   etc.
 
- Lead to Cash
+#### Lead to Cash
 
  Typically one of the most important business process for many
  companies, because it is the process ultimately responsible for
@@ -524,7 +526,7 @@
  C/4 HANA) to a company's realization of revenue (in the back-end SAP
  S/4HANA system), bringing the front office together with back office.
 
- Source-to-Pay
+#### Source-to-Pay
 
  While companies often focus on revenue, sourcing and procurement
  savings can increase profits about five times more. In the Intelligent
@@ -534,7 +536,7 @@
  being the operational process that takes care of the actual
  procurement of direct material, indirect materials, or services
 
- LESSON SUMMARY
+## LESSON SUMMARY
 
  You should now be able to:
 
@@ -546,13 +548,13 @@
 
  (BTP)
 
- LESSON OBJECTIVES
+## LESSON OBJECTIVES
 
  After completing this lesson, you will be able to:
 
 -   Explain, that the BTP covers two areas: integration and extension
 
-### Business Technology Platform
+## Business Technology Platform
 
  The Business Technology Platform Overview
 
@@ -578,9 +580,9 @@
 
 -   Foundational Platform Services
 
- Get Deeper
+### Get Deeper
 
- Business Analytics
+#### Business Analytics
 
  Uncover deep insights and simplify access to critical information to
  drive better business outcomes and accelerate growth.
@@ -591,7 +593,9 @@
 
 -   Collaborative Planning
 
--   Data Warehousing Intelligent Technologies
+-   Data Warehousing 
+
+#### Intelligent Technologies
 
  Ignite innovation in any area of your business and unlock the
  intelligent enterprise. Sometimes this is called the Innovation
@@ -607,7 +611,7 @@
 
 -   And More.
 
- Application Development and Integration
+#### Application Development and Integration
 
  This is where the Integration Suite and Extension Suite are located.
 
@@ -620,7 +624,9 @@
 
 -   Integration
 
--   Enterprise Extensions Database and Data Management
+-   Enterprise Extensions 
+
+#### Database and Data Management
 
  Manage your enterprise data efficiently to optimize analytics and
  insights and improve business outcomes.
@@ -635,7 +641,9 @@
 
 -   Information Governance and Metadata Management
 
--   Data Quality and Integration Foundational Platform Services
+-   Data Quality and Integration 
+
+#### Foundational Platform Services
 
  Services that maximize the flexibility and adaptability of your
  application investment with a multicloud, future-proof foundation that
@@ -656,7 +664,7 @@
 
 -   And more
 
- The two Main Areas of the Business Technology Platform
+### The two Main Areas of the Business Technology Platform
 
  The Business Technology Platform focuses on Application Development
  and Integration If we look at the Application Development and
@@ -679,14 +687,14 @@
 
  And on the right-hand side, you see systems on premise. So here SAP
  systems with SAP S/ 4HANA or an S/4 Enterprise Suite, for instance,
- but it could also be non-SAP systems.
-
- Integration Suite Integration Suite
+ but it could also be non-SAP systems. 
+ 
+#### Integration Suite
 
 -   Makes sure that you have the right data at the right time in the
     right system whenever you need that.
 
- Extension Suite
+#### Extension Suite
 
  The Extension Suite comes:
 

@@ -1085,7 +1085,6 @@ ISBN: 1492048909
 
     3.  Number 3= https://my331933.crm.ondemand.com.
 
-<!-- --
 
 1.  Configure the SAP Cloud Integration 
 Use the following data:
@@ -1113,7 +1112,7 @@ Use the following data:
 </tbody
 </table
 
-![](.//media/image2.png)
+
 
 1.  You are logged on to the training landscape, see previous task.
 
@@ -1161,8 +1160,9 @@ Use the following data:
 
  ![](.//media/image44.jpeg)
 
-1.  Change the Business Partner Name in SAP Cloud for Customer and SAP
-     Sales Cloud. Use the following data:
+### 1.  Change the Business Partner Name in SAP Cloud for Customer and SAP
+### Sales Cloud. 
+Use the following data:
 
 ![](.//media/image2.png)
 
@@ -1185,11 +1185,10 @@ Use the following data:
 
 4.  The data message will be sent automatically to the iFlow in the CPI.
 
-<!-- --
 
-1.  Check the Message iFlow Use the following data:
+### 1.  Check the Message iFlow Use the following data:
 
-![](.//media/image2.png)
+
 
 1.  If not already there, log on to the CPI Tenant as you did before.
 
@@ -1203,12 +1202,11 @@ Use the following data:
 
 5.  ![](.//media/image48.jpeg)Click on it to see details.
 
-<!-- --
 
-1.  Check the changed Business Partner Data in SAP Cloud for Marketing
+
+### 1.  Check the changed Business Partner Data in SAP Cloud for Marketing
      Use the following data:
 
- ![](.//media/image2.png)
 
 1.  You are logged in to the training landscape *dx-s4c1911-sactest*,
     see the step before.
@@ -1231,7 +1229,7 @@ Use the following data:
 1.  ![](.//media/image51.jpeg)Choose *Personal Data* to check its
     details. Note, that the changes are made.
 
- LESSON SUMMARY
+## LESSON SUMMARY
 
  You should now be able to:
 
@@ -1265,7 +1263,6 @@ Use the following data:
 
 5.  Waterfall
 
-<!-- --
 
 1.  What are possible deployment models?
 
@@ -1279,7 +1276,6 @@ Use the following data:
 
 4.  Private cloud
 
-<!-- --
 
 1.  What are the three core processes of IT value creation?
 
@@ -1295,7 +1291,6 @@ Use the following data:
 
 5.  Create software
 
-<!-- --
 
 1.  All hardware maintenance and configuration is done in a fully
      automated way by your cloud provider's platform.
