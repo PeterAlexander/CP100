@@ -1,9 +1,8 @@
 
- Explaining the Cloud Native Maturity Matrix
-===========================================
+ Lesson 4: Explaining the Cloud Native Maturity Matrix
 
 ## LESSON OBJECTIVES
-
+---
  After completing this lesson, you will be able to:
 
     -   Detect the position of your company in terms of culture, team,
@@ -11,43 +10,41 @@
         sketch your goals and how to get there
 
 ## Cloud Native Maturity Matrix
-
+---
  In particular, we'll look at the following topics in this lesson:
 
-    -   Cloud Native Transformation - Overview
-    
-    -   Culture
-    
-    -   Product/Service Design
-    
-    -   Team
-    
-    -   Process
-    
-    -   Architecture
-    
-    -   Maintanance
-    
-    -   Delivery
-    
-    -   Provisioning
-    
-    -   Infrastructure
+        -   Cloud Native Transformation - Overview
+        
+        -   Culture
+        
+        -   Product/Service Design
+        
+        -   Team
+        
+        -   Process
+        
+        -   Architecture
+        
+        -   Maintanance
+        
+        -   Delivery
+        
+        -   Provisioning
+        
+        -   Infrastructure
 
 ## Cloud Native Transformation - Overview
-
+---
  Cloud Native Maturity Matrix, a unique framework for evaluating and
  understanding your company where it is right now. The matrix is a
  pragmatic process you can apply to map your current maturity, identify
  gap analysis, and discern where they should focus their efforts in
  order to reap the most benefits.
 
-** This part comes from the book : **
+**This part comes from the book :**
 
 Cloud Native Transformation Practical Patterns for Innovation
-
 Pini Reznik, Michelle Gienow, Jamie Dobson
-
 ISBN: 1492048909
 
  ![](.//media/image25.jpeg)
@@ -57,21 +54,21 @@ ISBN: 1492048909
  interdependent system. Each axis is further divided into four specific
  stages of organizational development a company may currently occupy:
 
--   No process
-
--   Waterfall
-
--   Agile
-
--   Cloud native
-
--   Next
+    -   No process
+    
+    -   Waterfall
+    
+    -   Agile
+    
+    -   Cloud native
+    
+    -   Next
 
  We'll take a closer look. We limit ourselves only to the living of the
  Cloud Native and Next specific stages of organizational development.
 
 ## Culture
-
+---
 ![](.//media/image26.jpeg)
 
 ### Cloud native: Collaborative
@@ -94,7 +91,7 @@ ISBN: 1492048909
  business.
 
 ## Product/Service Design
-
+---
 ![](.//media/image27.jpeg)
 
  This is the place where we assess just what it is you do and how you
@@ -121,7 +118,7 @@ ISBN: 1492048909
  with little developer interaction.
 
 ## Team
-
+---
 ![](.//media/image28.jpeg)
 
  Does your enterprise take a top-down, "Do what the boss says"
@@ -157,7 +154,7 @@ ISBN: 1492048909
  teams - much as many ecommerce teams have been managed for a decade.
 
 ## Process
-
+---
 ![](.//media/image29.jpeg)
 
  Does your enterprise do long-term planning up front and then follow
@@ -189,13 +186,13 @@ ISBN: 1492048909
  improved on automatically by the platform.
 
 ## Architecture
-
+---
 ![](.//media/image30.jpeg)
 
  Is your enterprise trying "batteries included" to provide everything
  needed for most use cases
 
- \- the Tightly Coupled Monolith? Or perhaps you have reached the next
+The Tightly Coupled Monolith? Or perhaps you have reached the next
  step in the evolutionary architecture chain, Client-Server. The cloud
  native goal is to use microservices architecture where a large
  application is built as a suite of modular components or services.
@@ -231,8 +228,9 @@ ISBN: 1492048909
  provisioning, scaling, or patching are required. There is a
  pay-as-you-go/pay-per-invocation model.
 
- <img src=".//media/image31.jpeg" style="width:5.74031in;height:1.75906in" /Maintenance
-
+## Maintenance
+---
+![](.//media/image31.jpeg)
 
  On this axis we assess how you monitor your systems and keep them
  running. It's a broad spectrum, from having no process whatsoever to
@@ -288,8 +286,8 @@ ISBN: 1492048909
  Self-healing is the optimal way for systems to be operated and
  maintained. It is faster, more secure, and more reliable.
 
- Delivery
-
+## Delivery
+---
 ![](.//media/image32.jpeg)
 
  Delivery is really all about how quickly you can get things out and in
@@ -337,7 +335,7 @@ ISBN: 1492048909
  are negatively impacted, such as user conversion.
 
 ## Provisioning
-
+---
 ![](.//media/image33.jpeg)
 
  How do you create new infrastructure and new machines? How quickly can
@@ -378,7 +376,7 @@ ISBN: 1492048909
  its way to becoming standard cloud native best practice.
 
 ## Infrastructure
-
+---
 ![](.//media/image34.jpeg)
 
  Everyone knows this one: single server to multiple servers to VMs
@@ -411,3 +409,9 @@ ISBN: 1492048909
  user. (Kind of like microservices for compute loads, really.) Edge
  computing returns results fast and works well in applications where,
  for example, adequate data is available locally.
+ 
+## LESSON SUMMARY
+---
+ You should now be able to:
+
+    -   Detect the position of your company in terms of culture, team, process and white criteria. With the help of the matrix, you can now sketch your goals and how to get there

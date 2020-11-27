@@ -1,78 +1,70 @@
-Explaining Definitions
-======================
+# Lesson 3:  Explaining Definitions
 
 ## LESSON OBJECTIVES
-
+---
  After completing this lesson, you will be able to:
 
--   Explain, how the IT stack is structured and how the terms Dedicated,
-    Virtualized, IaaS, Container PaaS, Serverless, and SaaS are related
-    to it
+    - Explain, how the IT stack is structured and how the terms Dedicated, Virtualized, IaaS, Container PaaS, Serverless, and SaaS are related to it
 
 ## Definitions
-
+---
  In particular, we'll look at the following topics in this lesson:
 
--   It’s All About Services
-
--   The IT Stack
-
--   Deployment Models
+    - It’s All About Services
+    
+    - The IT Stack
+    
+    - Deployment Models
 
 ## It’s All About Services
-
+---
  The heart of cloud native is cloud-based services. This is the
  platform upon which we
 
--   Build
-
--   Launch
-
--   Operate
-
--   Distribute
-
--   Containerize
-
--   Automated
-
--   A modular application empire.….
+    - Build
+    
+    - Launch
+    
+    - Operate
+    
+    - Distribute
+    
+    - Containerize
+    
+    - Automated
+    
+    - A modular application empire.….
 
  In the following we will look at the service models in relation to the
  IT stack.
-
-
-
-
+ 
+![](.//media/image15.jpeg)
 
  The figure illustrates the IT stack.
 
- ### The levels of the stack are
+### The levels of the stack are
 
- The IT stack is divided into eight levels below the software
- application.
+     - The IT stack is divided into eight levels below the software application.
 
 #### Network
 
- This layer of the stack allows the software to exchange information
- and data with other computers.
+    - This layer of the stack allows the software to exchange information and data with other computers.
 
 #### Storage
 
- The next level is the Storage layer, in which the application data and
- the data of the operating system are stored.
+     - The next level is the Storage layer, in which the application data and the data of the operating system are stored.
 
 #### Server
 
- Physical server with CPU's and memory.
+     -  Physical server with CPU's and memory.
 
 #### Virtualization
 
- Is the decoupling between physical servers and virtual machines.
+    - Is the decoupling between physical servers and virtual machines.
 
 #### Operating System
 
- Elementary computational and administrative functions.
+     - Elementary computational and administrative functions.
 
 #### Databases
 
@@ -80,12 +72,12 @@ Explaining Definitions
 
 #### Runtimes & Libraies
 
- Stand-as-stand deployment of programming interfaces and basic
+     - Stand-as-stand deployment of programming interfaces and basic
  functions. Utilities (libraries) provide ready-made features.
 
 #### Security & Integration
 
- Services and Tools to protect the application from unauthorized
+    - Services and Tools to protect the application from unauthorized
  access.
 
 ### Dedicated
@@ -97,13 +89,13 @@ Explaining Definitions
  one application runs, high initial expenses have to be incurred. This
  costs a lot of money and time.
 
-### Virtualized
+
 
 ![](.//media/image18.jpeg)
 
- Here the customer is only responsible for the storage and network.
+    -  Here the customer is only responsible for the storage and network.
 
-### IaaS
+
 
 ![](.//media/image19.jpeg)
 
@@ -116,7 +108,7 @@ Explaining Definitions
  IaaS provider (Hyperscaler) are Google Cloud Platform , Azure, AWS and
  many more.
 
-### Container
+
 
 ![](.//media/image20.jpeg)
 
@@ -124,9 +116,9 @@ Explaining Definitions
  orchestration, and all underlying (IaaS) compute resources for
  delivery to users as a service from your cloud provider.
 
- <img src=".//media/image21.jpeg" style="width:5.23656in;height:3.01031in" /PaaS
 
 
+![](.//media/image21.jpeg)
 
  Platform-as-a-Service: This can be used to manage and maintain all
  that virtualized infrastructure, greatly reducing the load on your Ops
@@ -134,8 +126,9 @@ Explaining Definitions
 
  SAP Cloud Platform is a PaaS.
 
- <img src=".//media/image22.jpeg" style="width:5.1675in;height:3.01031in" /Serverless
 
+
+![](.//media/image22.jpeg)
 
  Serverless computing is a cloud computing execution model in which the
  cloud provider runs the server, and dynamically manages the allocation
@@ -143,9 +136,8 @@ Explaining Definitions
  resources consumed by an application, rather than on pre-purchased
  units of capacity.
 
- <img src=".//media/image23.jpeg" style="width:5.46812in;height:3.07937in" /Software-as-a-Service
- (SaaS)
 
+![](.//media/image22.jpeg)
 
  Software-as-a-Service: This allows you to pick and choose component
  applications, everything from traditional business software (think MS
@@ -154,18 +146,18 @@ Explaining Definitions
  security, availability, and performance.
 
 ## Deployment Models
-
+---
  Cloud services differ in different types of deployment. Depending on
  who offers the services and to which target group they are targeted,
  it is referred to as:
 
--   Public Clouds
-
--   Private Clouds
-
--   Hybrid Clouds
-
--   Community Cloud
+    -   Public Clouds
+    
+    -   Private Clouds
+    
+    -   Hybrid Clouds
+    
+    -   Community Cloud
 
 ### Public Cloud
 
@@ -205,7 +197,7 @@ Explaining Definitions
  specific services. However, these are not publicly available, but are
  limited to a defined user group.
 
-### Comparison between private and public cloud
+
 
 ![](.//media/image24.jpeg)
 
@@ -217,9 +209,9 @@ Explaining Definitions
  fast innovative applications.
 
 ## LESSON SUMMARY
-
+---
  You should now be able to:
 
--   Explain, how the IT stack is structured and how the terms Dedicated,
+    -   Explain, how the IT stack is structured and how the terms Dedicated,
     Virtualized, IaaS, Container PaaS, Serverless, and SaaS are related
     to it

@@ -1,11 +1,11 @@
- ## LESSON OBJECTIVES
-
+## LESSON OBJECTIVES
+---
  After completing this lesson, you will be able to:
 
--   Explain the three main types of corporate culture
+    -   Explain the three main types of corporate culture
 
 ## The Human Challenge of Cloud Native
-
+---
  In particular, we'll look at the following topics in this lesson:
 
 -   What is corporate culture?
@@ -13,14 +13,13 @@
 -   The three main types of corporate culture.
 
 ## What is corporate culture?
-
--   In a business context, the *do* is how the people within your
-    organization interact, communicate, and work with each other.
-
--   In short:
-
- \- Culture is the way your enterprise goes about creating and
- delivering your service or product.
+---
+    -   In a business context, the *do* is how the people within your
+        organization interact, communicate, and work with each other.
+    
+    -   In short:
+    
+     - Culture is the way your enterprise goes about creating and delivering your service or product.
 
  If you have the perfect set of cloud platform, tools, and techniques
  yet go about using them in the wrong way - if you apply the right
@@ -33,17 +32,17 @@
  won't work at all.
 
 ## The three main types of corporate culture
-
+---
  The three major types of culture within enterprises track closely with
  the type of product/service delivery process the organization follows:
 
--   Waterfall,
+    -   Waterfall,
+    
+    -   Agile,
+    
+    -   Cloud native.
 
--   Agile,
-
--   Cloud native.
-
- ### Waterfall
+### Waterfall
 
  Waterfall organizations are all about long-term planning. They deliver
  a single large, solidly built, and thoroughly tested deployment every
@@ -110,8 +109,8 @@
  implement the cloud native culture in the company. Otherwise you will
  fail.
 
- LESSON SUMMARY
-
+## LESSON SUMMARY
+---
  You should now be able to:
 
--   Explain the three main types of corporate culture
+    -   Explain the three main types of corporate culture

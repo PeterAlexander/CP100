@@ -201,13 +201,7 @@ Use the following data:
 1.  ![](.//media/image51.jpeg)Choose *Personal Data* to check its
     details. Note, that the changes are made.
 
-## LESSON SUMMARY
 
- You should now be able to:
-
--   Detect the position of your company in terms of culture, team,
-     process and white criteria. With the help of the matrix, you can
-     now sketch your goals and how to get there
 
  Learning Assessment
 ===================
