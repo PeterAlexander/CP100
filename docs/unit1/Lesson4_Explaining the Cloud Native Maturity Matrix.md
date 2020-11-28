@@ -1,4 +1,3 @@
-
 # Lesson 4: Explaining the Cloud Native Maturity Matrix
 ## LESSON OBJECTIVES
 ---
