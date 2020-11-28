@@ -1,5 +1,5 @@
 
-# Lesson4: Explaining KYMA
+# Lesson5: Explaining KYMA
 ## LESSON OBJECTIVES
 
  After completing this lesson, you will be able to:
