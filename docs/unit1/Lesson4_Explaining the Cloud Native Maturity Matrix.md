@@ -1,6 +1,5 @@
 
- Lesson 4: Explaining the Cloud Native Maturity Matrix
-
+# Lesson 4: Explaining the Cloud Native Maturity Matrix
 ## LESSON OBJECTIVES
 ---
  After completing this lesson, you will be able to:
@@ -41,11 +40,10 @@
  gap analysis, and discern where they should focus their efforts in
  order to reap the most benefits.
 
-**This part comes from the book :**
-
-Cloud Native Transformation Practical Patterns for Innovation
-Pini Reznik, Michelle Gienow, Jamie Dobson
-ISBN: 1492048909
+This part comes from the book :
+    Cloud Native Transformation Practical Patterns for Innovation
+    Pini Reznik, Michelle Gienow, Jamie Dobson
+    ISBN: 1492048909
 
  ![](.//media/image25.jpeg)
 

@@ -1,5 +1,4 @@
-# Lesson 1:  Explaining Cloud Native
-
+# Lesson 1: Explaining Cloud Native
 ##  LESSON OBJECTIVES
 ---
 After completing this lesson, you will be able to:
