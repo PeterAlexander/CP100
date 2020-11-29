@@ -1,50 +1,6 @@
-### Lesson 1
 
-> Lesson 2
-
-### Lesson 3
-
-> Lesson 4
-
-### Lesson 5
-
-> Lesson 6
-
-### Lesson 7
-
-> Lesson 8
-
-### Lesson 9
-
-> Lesson 10
->
-> UNIT OBJECTIVES
-
--   Explain the Integration strategy in an overview
-
--   Perform a classification according to ISA-M
-
--   Explain integration comprehensively
-
--   Explore APIs in the SAP Universe
-
--   Explain the use of API management
-
--   Explain the use of SAP Graph
-
--   Create B2B mappings
-
--   Explain the use and the main components of the Cloud Integration
-
--   Explain the features of enterprise messaging
-
--   Explain the use of Open Connectors
-
- Explaining the Integration Strategy
+Lesson1: Explaining the Integration Strategy
 ===================================
-
-95
---
 
 > LESSON OBJECTIVES
 >

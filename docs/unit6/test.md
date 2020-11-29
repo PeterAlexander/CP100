@@ -1,19 +1,7 @@
-### Lesson 1
 
-> Lesson 2
 
-### Lesson 3
 
-> UNIT OBJECTIVES
-
--   Figure out, how the domain model works and name the main services
-
--   Differentiate between authentication and authorization and how both
-    are used on the SAP Cloud Platform
-
--   Appreciate the secure implementation of a microapp
-
- Introducing Application Security
+## Lesson1: Introducing Application Security
 ================================
 
 > LESSON OBJECTIVES
