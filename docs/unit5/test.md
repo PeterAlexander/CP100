@@ -133,7 +133,7 @@
 
 -   Low Code Tools
 
-<!-- --
+
 
 -   Programming Models / Runtimes
 
@@ -381,7 +381,7 @@
 
 -   Increase transparency and streamlined logistics communication
 
-<!-- --
+
 
 -   Cut trucking costs
 
@@ -586,7 +586,7 @@
 
 -   Various 3rd party tools Value Driver:
 
-<!-- --
+
 
 -   Deliver consistent premium experience.
 
@@ -706,7 +706,7 @@
 
 -   \- Recovers broken connections automatically.
 
-<!-- --
+
 
 -   Provides audit logging of inbound traffic and configuration changes.
 
@@ -1509,7 +1509,7 @@ Lesson: Adding Channels
     -   Build engaging user experiences with *SAP Fiori 3* or custom
          site design.
 
-<!-- --
+
 
 -   Provide central access to applications (cloud and on premise).
 
@@ -1518,11 +1518,11 @@ Lesson: Adding Channels
 
 -   Use public APIs to extend and optimize site experience.
 
-<!-- --
+
 
 -   Benefits:
 
-<!-- --
+
 
 -   Simplify and streamline access to applications and information.
 

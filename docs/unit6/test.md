@@ -206,7 +206,7 @@
 
 -   Two-factor authentication
 
-<!-- --
+
 
 -   Delegated logon
 
@@ -599,7 +599,7 @@
      Partner Servlet (3) with click on the link
      */businesspartner-resilience*.
 
-<!-- --
+
 
 1.  Infos for Trainer
 
@@ -637,7 +637,7 @@
      decrypting [<uhttps://jwt.io</u](https://jwt.io/) on the
      website.
 
-<!-- --
+
 
 1.  Perform Authorization via oAuth2.
 
@@ -838,7 +838,7 @@
 
 3.  Account, Subaccount(s), Spaces
 
-<!-- --
+
 
 1.  Identity providers (IDP) are used for user authentication.
 
