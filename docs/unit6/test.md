@@ -1,16 +1,16 @@
 
 
 
-## Lesson1: Introducing Application Security
+# Lesson1: Introducing Application Security
 ================================
 
- LESSON OBJECTIVES
+## LESSON OBJECTIVES
 
  After completing this lesson, you will be able to:
 
 -   Figure out, how the domain model works and name the main services
 
-### The Domain Model
+## The Domain Model
 
  In particular, we'll look at the following topics in this lesson:
 
@@ -18,7 +18,7 @@
 
 -   SAP Product Context
 
- Current Domain Model
+## Current Domain Model
 
 ![](.//media/image2.jpeg)
 
@@ -27,11 +27,9 @@
  <img src=".//media/image4.jpeg" style="width:4.29in;height:2.59594in" /Global
  Account
 
-![](.//media/image3.png)
-
  A global account has a region, here red (1).
 
- Subaccount
+### Subaccount
 
 ![](.//media/image5.jpeg)
 
@@ -42,23 +40,21 @@
 
  Lesson: Introducing Application Security
 
- Spaces
+### Spaces
 
 ![](.//media/image6.jpeg)
 
  The figure illustrates, that a subaccount has n Spaces (5) with
  services and applications in the Marketplace.
 
- SAP Product Context
+## SAP Product Context
 
  <img src=".//media/image7.jpeg" style="width:4.30625in;height:1.2025in" /First,
  an overview of the services and tools in the area of security.
 
-![](.//media/image3.png)
-
  The figure illustrates the SAP product context. In detail:
 
- Authentication & Single Sign-on
+### Authentication & Single Sign-on
 
 -   SAP CP Identity Authentication
 
@@ -76,7 +72,7 @@
  and SAP Cloud Platform Identity Provisioning that help us to work
  safely.
 
- Information about the SAP Cloud Platform Identity Authentication:
+### Information about the SAP Cloud Platform Identity Authentication:
 
 -   Simplify and secure cloud-based access to business processes,
     applications, and data with state-of-the-art authentication
@@ -91,7 +87,7 @@
 
     -   Secure integration
 
- SAP Cloud Identity Access Governance
+### SAP Cloud Identity Access Governance
 
  Streamline identity and access management (IAM) in complex on-premise
  and cloud environments with SAP Cloud Identity Access Governance
@@ -99,7 +95,7 @@
  dashboard-driven interface and a simple single sign-on (SSO)
  experience in the cloud.
 
- Information about SAP Cloud Platform Identity Provisioning:
+### Information about SAP Cloud Platform Identity Provisioning:
 
 -   Automate identity lifecycle processes to provision identities and
      their authorizations to cloud and on-premise applications.
@@ -107,7 +103,7 @@
 -   Define user access based on identity attributes such as current
      group or role assignment and location.
 
- LESSON SUMMARY
+## LESSON SUMMARY
 
  You should now be able to:
 
@@ -116,14 +112,14 @@
  Explaining Platform Security
 ============================
 
- LESSON OBJECTIVES
+## LESSON OBJECTIVES
 
  After completing this lesson, you will be able to:
 
 -   Differentiate between authentication and authorization and how both
     are used on the SAP Cloud Platform
 
-### Platform Security
+## Platform Security
 
  In particular, we'll look at the following topics in this lesson:
 
@@ -140,8 +136,6 @@
  <img src=".//media/image8.jpeg" style="width:2.1775in;height:1.82406in" /SAP
  Cloud Platform Identity Authentication - IDP
 
-![](.//media/image3.png)
-
  SAP CP uses out of the box, the Identity Providers (IDP) for user
  authentication. He has the role of a user store:
 
@@ -152,8 +146,6 @@
  Freedom of choice of IDP
 
  SAML2 standard provides choice of authentication provider.
-
- ![](.//media/image3.png)
 
  <img src=".//media/image9.jpeg" style="width:1.82812in;height:1.60875in" /SAP\_CP\_Identity\_Authentication
  can use on-premise IDP's (AD, LDAP, SAP) for user authentication:
@@ -182,7 +174,7 @@
  Here is the SAML 2.0 Response from IDP to SAP Cloud Platform after
  successfull login.
 
- SAP Cloud Platform Identity Authentication - Service
+## SAP Cloud Platform Identity Authentication - Service
 
  By default, SAP always uses the IDP as the identity provider. However,
  it only offers basic functions like User Authentication as a user
@@ -196,8 +188,6 @@
  you still need an Identity Provider, for example the IDP from SAP or
  from third- party companies.
 
-![](.//media/image3.png)
-
  The example above uses two IDPs. The Features are:
 
 -   Basic authentication
@@ -210,9 +200,9 @@
 
 -   Delegated logon
 
- Information about User and Role Management on SAP Cloud Platform
+## Information about User and Role Management on SAP Cloud Platform
 
- Table 6: User and Role Management on SAP Cloud Platform
+ Table 9: User and Role Management on SAP Cloud Platform
 
  No user identities are held on the SAP Cloud Platform. However,
  domain-dependent system and service roll and groups are used.
@@ -228,30 +218,26 @@
  <img src=".//media/image13.jpeg" style="width:3.99344in;height:1.2675in" /Roles
  and Groups on the SAP Cloud Platform - Platform Users
 
-![](.//media/image3.png)
-
  On global level the Administrator role is assigned.
 
  <img src=".//media/image14.jpeg" style="width:4.03in;height:1.68594in" /Roles
  and Groups on the SAP Cloud Platform - Platform Users
 
-![](.//media/image3.png)
-
  On subaccont level, the Organisation Roles are assigned.
 
- Roles and Groups on the SAP Cloud Platform - Platform Users
+## Roles and Groups on the SAP Cloud Platform - Platform Users
 
 ![](.//media/image15.jpeg)
 
  On subaccont level also the Security Administrators are assigned.
 
- Roles and Groups on the SAP Cloud Platform - Platform Users
+## Roles and Groups on the SAP Cloud Platform - Platform Users
 
 ![](.//media/image16.jpeg)
 
  On space level the Spaces Roles are assigned.
 
- Appication Users - Service Roles
+## Appication Users - Service Roles
 
 ![](.//media/image17.jpeg)
 
@@ -262,16 +248,12 @@
  <img src=".//media/image18.jpeg" style="width:4.5175in;height:1.89312in" /SAP
  Cloud Identity Provisioning Service
 
-![](.//media/image3.png)
-
  In order to use existing roles and groups, for example in the SAP
  Cloud Platform, these can be mapped manually via the SAP Cloud
  Platform Identity Provisioning Service.
 
  <img src=".//media/image19.jpeg" style="width:4.00562in;height:2.3725in" /Bringing
  all together
-
-![](.//media/image3.png)
 
  The combination of authentication and authorization looks like. This
  would also be the architecture to be aspired to. The SAP Cloud
@@ -349,13 +331,13 @@
  Explaining Application Security
 ===============================
 
- LESSON OBJECTIVES
+## LESSON OBJECTIVES
 
  After completing this lesson, you will be able to:
 
 -   Appreciate the secure implementation of a microapp
 
-### Application Security
+## Application Security
 
  In particular, we'll look at the following topics in this lesson:
 
@@ -369,7 +351,7 @@
 
 -   Assigning Users to Application Roles
 
- How Application Security works
+## How Application Security works
 
  We limit ourselves to what we're doing in Cloud Foundry. The following
  example describes a microservices in Java.
@@ -379,7 +361,8 @@
  The figure above illustrates a high-level authentication setup.
  Further details:
 
- The App Router (1) Its tasks are:
+## The App Router (1) 
+Its tasks are:
 
 -   The App Router is the central entry point for our application it
     dispatches requests to our back end microservices, thus acting as a
@@ -398,15 +381,13 @@
  the Extended Services for User Account and Authentication (XSUAA)
  service of the SAP Cloud Platform in the Cloud Foundry environment .
 
- Install via Service Marketplace
+### Install via Service Marketplace
 
  The App Router is a *Node.js* component, distributed via the
  publically available SAP NPM registry.
 
  <img src=".//media/image27.jpeg" style="width:1.80375in;height:1.65344in" /The
  Application Router's Design-Time Descriptor: xs-app.json
-
-![](.//media/image3.png)
 
  The xs-app.json file can be used to configure many more aspects at
  design-time of the AppRouter like authentication types, cache control,
@@ -416,8 +397,6 @@
 
  <img src=".//media/image28.jpeg" style="width:2.09219in;height:1.82in" /The
  AppRouter's Runtime Configuration within the manifest.yaml
-
-![](.//media/image3.png)
 
  Besides destinations and tenant host patterns, the AppRouter
  understands many different parameters that can be changed during
@@ -430,14 +409,12 @@
  <img src=".//media/image29.jpeg" style="width:2.93312in;height:1.70625in" /The
  Application Security Descriptor: xs-security.json
 
-![](.//media/image3.png)
-
  The xs-security.json descriptor is an important design-time artifact
  to provide authorization scopes, role templates, and other attributes
  of the application itself as well as foreign applications. This file
  will be imported while the XSUAA Service will be create.
 
- Json Web Token (JWT)
+## Json Web Token (JWT)
 
  JSON Web Token (JWT) is an open standard (RFC 7519) that defines a
  compact and self- contained way for securely transmitting information
@@ -456,15 +433,13 @@
  the signature also certifies that only the party holding the private
  key is the one that signed it.
 
-![](.//media/image3.png)
-
  The figure shows an example of a JWT.
 
- When should you use JSON Web Tokens?
+### When should you use JSON Web Tokens?
 
  Here are some scenarios where JSON Web Tokens are useful:
 
- Authorization
+### Authorization
 
  This is the most common scenario for using JWT. Once the user is
  logged in, each subsequent request will include the JWT, allowing the
@@ -473,7 +448,7 @@
  because of its small overhead and its ability to be easily used across
  different domains.
 
- Information Exchange
+### Information Exchange
 
  JSON Web Tokens are a good way of securely transmitting information
  between parties. Because JWTs can be signed-for example, using
@@ -482,7 +457,7 @@
  header and the payload, you can also verify that the content hasn't
  been tampered with.
 
- User Assignment to Application Roles
+## User Assignment to Application Roles
 
 ![](.//media/image31.jpeg)
 
@@ -505,7 +480,7 @@
 
 -   Add the Role Collection to the user.
 
- Protecting the back end application
+## Protecting the back end application
 
 ![](.//media/image32.jpeg)
 
@@ -521,7 +496,7 @@
 -   In the web.xml of your back end service you set the security
     requirements for Authentication and Authorisation.
 
- Protect the Implementation
+## Protect the Implementation
 
 ![](.//media/image33.jpeg)
 

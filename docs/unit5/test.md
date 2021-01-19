@@ -1,17 +1,17 @@
 
-## Lesson1: Explaining the Extension Strategy
+# Lesson1: Explaining the Extension Strategy
 =================================
 
 179
 ---
 
- LESSON OBJECTIVES
+## LESSON OBJECTIVES
 
  After completing this lesson, you will be able to:
 
 -   Explain, why extensibility is so important
 
-### Extensibility Suite
+## Extensibility Suite
 
  In particular, we'll look at the following topics in this lesson
 
@@ -30,9 +30,7 @@
 -   Where can I find the information if and how i can extend an SAP Saas
     app via side-by-side?
 
- What is the extension suite?
-
- What is the extension suite?
+## What is the extension suite?
 
 -   With the Integration Suite, you can make sure that you have the
     right data at the right time in the right system in the correct
@@ -48,12 +46,10 @@
  cloud based developer tools. In this chapter we will only take care of
  the Extension Suite.
 
- Short repetition
+## Short repetition
 
  Remember the Intelligent Enterprise strategy chapter. The following
  picture was shown there.
-
- ![](.//media/image2.png)
 
  <img src=".//media/image3.jpeg" style="width:3.90406in;height:1.7225in" /On
  the left-hand side, you see all the cloud solutions, may it be an SAP
@@ -63,25 +59,21 @@
  systems with S/ 4HANA or an SAP Enterprise Suite, for instance, but it
  could also be non-SAP systems.
 
- Categorization into 3 areas - first look
+## Categorization into 3 areas - first look
 
  <img src=".//media/image4.jpeg" style="width:3.8675in;height:2.275in" /To
  easier understand the offered tools and services we have introduced
  three categories in the Extension Suite as seen here.
-
-![](.//media/image2.png)
 
  It has no technical impact to have this separation as all these
  services work hand in hand. You have development tools from
  "Development Efficiency" to build a modern, Digital Experience
  exposing digital, automated processes to end users.
 
- Going deeper in the Categories
+## Going deeper in the Categories
 
  If we take a closer look at the Extension Suite, we see three main
  pillars.
-
- ![](.//media/image2.png)
 
  <img src=".//media/image5.jpeg" style="width:3.575in;height:2.08in" /On
  the left-hand side, you see the digital experience. This contains all
@@ -141,7 +133,7 @@
 
 -   Event-Driven Architecture
 
- What are extensions?
+## What are extensions?
 
 -   SAP Cloud Platform Extension Suite Extensions – The Engineering View
 
@@ -154,7 +146,7 @@
 -   Extensibility is measure of ability to extend and effort required to
     implement extension.
 
- Why build extensions?
+## Why build extensions?
 
  <img src=".//media/image6.jpeg" style="width:3.575in;height:2.08in" /One
  can't expect that a given software supports all individual user
@@ -163,17 +155,15 @@
  requirements to be implemented that either optimized existing
  processes or drives completely new business models and innovations.
 
-![](.//media/image2.png)
-
  The blue circle describes the scope of the functionality delivered by
  SAP. The light green circle describes the necessary requirements of
  the customer. Nor in the area of overlap, the delivered software can
  meet the customer's requirements. The rest must be created either
  together with SAP or in its own direction (dark green circle).
 
- Extension Types - 3 basic types:
+## Extension Types - 3 basic types:
 
- Classic
+### Classic
 
 -   Web GUI
 
@@ -181,7 +171,9 @@
 
 -   BAPIs
 
--   Function modules In-App
+-   Function modules 
+
+### In-App
 
     -   Custom SAP Fiori app deployed to SAP S/4HANA.
 
@@ -189,7 +181,7 @@
 
     -   Other SaaS apps.
 
- Side-by-Side
+### Side-by-Side
 
 -   Custom development outside of the application to be extended Cloud
     services
@@ -200,7 +192,7 @@
 
  The SAP Extension Suite wants to cover the green areas.
 
- What can be extended with the side-by-side Approach?
+## What can be extended with the side-by-side Approach?
 
 -   Basically, all SAP software products can be extended. The
     prerequisites are:
@@ -223,8 +215,8 @@
 
     -   More
 
- Where can I find the information if and how i can extend an SAP Saas
- app via side-by- side?
+## Where can I find the information if and how i can extend an SAP Saas
+## app via side-by- side?
 
  In the SAP API business hub I find this information. We took a closer
  look at this in a previous chapter.
@@ -236,7 +228,7 @@
  side-by-side extension. In addition to this white listed information,
  there are others that are only available in cooperation with SAP.
 
- LESSON SUMMARY
+## LESSON SUMMARY
 
  You should now be able to:
 
@@ -247,13 +239,13 @@
 
  **<sup185</sup** Platform
 
- LESSON OBJECTIVES
+## LESSON OBJECTIVES
 
  After completing this lesson, you will be able to:
 
 -   Explain the tools used for creating an extension
 
-### Tools for Extension Building
+## Tools for Extension Building
 
  In particular, we'll look at the following topics in this lesson:
 
@@ -263,13 +255,11 @@
 
 -   Use cases
 
- Extensions step-by-step - side-by-side
+## Extensions step-by-step - side-by-side
 
  <img src=".//media/image9.jpeg" style="width:3.83094in;height:2.23031in" /The
  general approach to the creation and operation of an extension is
  followed.
-
-![](.//media/image2.png)
 
  Explanations about the figure:
 
@@ -287,7 +277,7 @@
 
  Web, mobile, conversational, others.
 
- Extension Suite at a Glance
+## Extension Suite at a Glance
 
  If you combine the general procedure with the tools and concepts of
  the Extension Suite, you will come to the following overview.
@@ -327,7 +317,7 @@
 
 -   Portal
 
--   Fiori Launchpad
+-   SAP Fiori Launchpad
 
     -   Workzone
 
@@ -335,17 +325,13 @@
 
     -   DevOps ( Ci/CD services, Piper, Transport)
 
- ●
-
  In the following we will refer to this picture again and again so that
  you know where you are.
 
- Use cases
+## Use cases
 
  <img src=".//media/image11.jpeg" style="width:3.58312in;height:2.01094in" /Real-time
  Pricing Freight Platform -Transportation / Supply Chain
-
-![](.//media/image2.png)
 
  Use case:
 
@@ -406,8 +392,6 @@
  <img src=".//media/image12.jpeg" style="width:2.73406in;height:1.90125in" /Time
  Recording - Professional Services Industry / Finance and Accounting
 
-![](.//media/image2.png)
-
  Use case:
 
  Customer offers consulting services and wants to provide its employees
@@ -461,8 +445,6 @@
  <img src=".//media/image13.jpeg" style="width:3.5425in;height:2.10437in" /Equipment
  Management and Maintenance - Constructions and Operations / Asset
  Management
-
-![](.//media/image2.png)
 
  Use case:
 
@@ -520,9 +502,9 @@
 -   SAP Fiori applications and mobile applications accessing backend
      data in real-time.
 
--   ![](.//media/image2.png)<img src=".//media/image14.jpeg" style="width:3.72937in;height:1.91344in" /Custom
-    UX with reading data from SAP back end. Real-time Industry
-    Management Oil & Gas / Operations
+-   <img src=".//media/image14.jpeg" style="width:3.72937in;height:1.91344in" /Custom
+    UX with reading data from SAP back end.
+### Real-time Industry Management Oil & Gas / Operations
 
  Use case:
 
@@ -560,7 +542,7 @@
 
     -   Bringing together data from various systems.
 
- Innovating Customer Service Automotive / Customer Experience
+### Innovating Customer Service Automotive / Customer Experience
 
 ![](.//media/image15.jpeg)
 
@@ -614,7 +596,7 @@
  Building Connections
 ====================
 
- LESSON OBJECTIVES
+## LESSON OBJECTIVES
 
  After completing this lesson, you will be able to:
 
@@ -623,9 +605,7 @@
 
 ### <img src=".//media/image16.jpeg" style="width:3.77in;height:1.7225in" /<img src=".//media/image17.jpeg" style="width:5.66312in;height:2.62844in" /Cloud Connector Features
 
-![](.//media/image2.png)![](.//media/image2.png)
-
- Classification in the Extension Suite
+## Classification in the Extension Suite
 
  In this lesson we will look at the following tools
 
@@ -643,8 +623,6 @@
  Platform Integration and Enterprise Messaging as part of the
  Integration Suite. Therefore, we will only look at the Cloud Connector
  below.
-
-![](.//media/image2.png)
 
  <img src=".//media/image18.jpeg" style="width:5.1675in;height:2.51062in" /Connectivity
  Service at SAP Cloud Platform Slide
@@ -675,11 +653,9 @@
          both the Neo and the Cloud Foundry environment for application
          development on SAP Cloud Platform.
 
-![](.//media/image2.png)![](.//media/image2.png)
-
  <img src=".//media/image20.jpeg" style="width:4.745in;height:1.495in" /Slide
 
- Get more details:
+### Get more details:
 
  Serves as a link between SAP Cloud Platform applications and
  on-premise systems.
