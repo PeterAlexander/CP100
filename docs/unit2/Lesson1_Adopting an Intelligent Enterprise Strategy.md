@@ -1,13 +1,13 @@
 # Lesson1: Adopting an Intelligent Enterprise Strategy
 
 ## LESSON OBJECTIVES
----
+
  After completing this lesson, you will be able to:
 
     -   Explain the levels business process, applications and technology
 
 ## The Strategy of an Intelligent Enterprise
----
+
  In particular, we'll look at the following topics in this lesson:
 
     -   SAP Intelligent Enterprise strategy in a nutshell.
